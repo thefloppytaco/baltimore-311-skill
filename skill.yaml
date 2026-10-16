@@ -1,0 +1,10 @@
+name: baltimore_311
+title: Baltimore 311 filing and tracking
+description: File Baltimore City 311 service requests through the city's portal and check any request's live status via the public 311 data feed. Use when the user asks to report a pothole, missed trash, graffiti, broken street light, damaged cart, sidewalk issue, or anything else to Baltimore 311, or asks for the status of a 311 request (SR number).
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
